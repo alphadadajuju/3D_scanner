@@ -20,7 +20,7 @@ PCL 1.8.0
 MSVC 2015
 
 Contributors :
-Alpha,
+Yu,
 Chunxia,
 Darja,
 GopiKrishna,
